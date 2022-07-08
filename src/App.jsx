@@ -17,6 +17,11 @@ export default function App() {
             author="Guilherme Souza Alves"
             content="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore earum nostrum necessitatibus optio consectetur sint quia officiis. Dolor rem consequatur aliquam. Dolore reprehenderit harum corrupti nulla exercitationem eaque optio perferendis."
           />
+
+          <Post
+            author="Henrique Mário"
+            content="Meu deus tenho que aprender programação."
+          />
         </main>
       </div>
 
